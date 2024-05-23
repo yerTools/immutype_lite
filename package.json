@@ -1,0 +1,26 @@
+{
+  "name": "immutype_lite",
+  "version": "1.0.0",
+  "description": "WORK IN PROGRESS!",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gleam test --target javascript && gleam test --target erlang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerTools/immutype_lite.git"
+  },
+  "keywords": [
+    "erlang",
+    "gleam",
+    "javascript"
+  ],
+  "author": "Felix Mayer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yerTools/immutype_lite/issues"
+  },
+  "homepage": "https://github.com/yerTools/immutype_lite#readme"
+}
