@@ -3,6 +3,7 @@
     "esbenp.prettier-vscode",
     "github.vscode-github-actions",
     "gleam.gleam",
+    "inferrinizzard.prettier-sql-vscode",
     "pgourlain.erlang",
     "streetsidesoftware.code-spell-checker",
     "supertsy5.line-length-checker-vscode",
